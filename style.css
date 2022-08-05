@@ -361,7 +361,7 @@ circle:nth-child(1){
 }
 .block__content--item
 {
-    width: calc(25% - 30px);
+    width: calc(25% - 17px);
 }
 .block__content--item--img img{
     display: block;
